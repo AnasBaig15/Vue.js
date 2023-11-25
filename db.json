@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "name": "Anuu",
+      "email": "anil45@test.com",
+      "password": "signin12",
+      "id": 1
+    },
+    {
+      "email": "anuu.baig@test.com",
+      "name": "Anas baig",
+      "password": "google",
+      "id": 2
+    },
+    {
+      "email": "anassha74@ghsk.com",
+      "name": "Anas baig",
+      "password": "jksdhajhd",
+      "id": 3
+    },
+    {
+      "email": "hsdjkahsdad@con.com",
+      "name": "hsdjhs",
+      "password": "ashdkasd",
+      "id": 4
+    },
+    {
+      "email": "anas.baug78@yaho.com",
+      "name": "Anas baig",
+      "password": "ashdkhaskdhaksd",
+      "id": 5
+    },
+    {
+      "email": "anas.baig@adhagsj.com",
+      "name": "Anas baig",
+      "password": "ajhdhashda",
+      "id": 6
+    }
+  ],
+  "restuarent": [
+    {
+      "name": "Mandi house",
+      "address": "Hyderi market",
+      "contact": "999",
+      "id": 1
+    },
+    {
+      "name": "mc Donald",
+      "address": "surjani sector 4b",
+      "contact": "999",
+      "id": 3
+    }
+  ]
+}
